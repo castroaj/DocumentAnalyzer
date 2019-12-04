@@ -1,0 +1,6 @@
+Hi my name is Alex Castro. This is a test document for my program.
+I am going to read in lines and then see if they get read correctly.
+I need a bunch of lines to test so therefore im going to write down
+a bunch of stuff. He i go writing stuff. He is more stuff. Stuff. I
+think that I will read in lines fast and correctly. I need this to work.
+Here are some random words so I can test things. get read write To go we need.
